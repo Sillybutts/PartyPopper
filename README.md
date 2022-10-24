@@ -1,12 +1,14 @@
 # PartyPopper
 A revolving grenade launcher using 40MAX Dart shells by OldFusionDesign. 
-# This design is not finished, and should not be printed. This is merely being uploaded for others to continue development of the blaster.
+# This design is not finished, and should not be printed. This is merely being uploaded for others to continue development of the blaster. Contact SuperStressed#2401 on Discord for more info.
+
+<img src="GHimages/40max%20grenade%20launcher%20v215%201.png" width="400"><img src="GHimages/40max%20grenade%20launcher%20v215%202.png" width="400"><img src="GHimages/40max%20grenade%20launcher%20v215%2010.png" width="300">
 
 ## Description
 
 This blaster was commissioned by SuperStressed. He wanted a 40 Max shell firing grenade launcher, but didn't want to buy an Airsoft thing. So he came to me.
 
-# This design is not finished, and should not be printed. This is merely being uploaded for others to continue development of the blaster.
+# This design is not finished, and should not be printed. This is merely being uploaded for others to continue development of the blaster. Contact SuperStressed#2401 on Discord for more info.
 
 ## Misc.
 
@@ -14,7 +16,7 @@ This blaster was commissioned by SuperStressed. He wanted a 40 Max shell firing 
 
 **Disclaimer: This is not a toy. This blaster is meant for hobbyists, not children. Blaster must be operated correctly to avoid injury. I am not responsible for any injuries from this blaster. Please use a bright/blaze orange muzzle and barrel cap on this blaster. Consult local laws before building this high powered blaster.**
 
-# This design is not finished, and should not be printed. This is merely being uploaded for others to continue development of the blaster.
+# This design is not finished, and should not be printed. This is merely being uploaded for others to continue development of the blaster. Contact SuperStressed#2401 on Discord for more info.
 
 ## If you like what I do, please consider supporting me!
 
@@ -28,9 +30,19 @@ This blaster was commissioned by SuperStressed. He wanted a 40 Max shell firing 
 
 And here's my Etsy: https://www.etsy.com/shop/sillybuttsshop
 
-# This design is not finished, and should not be printed. This is merely being uploaded for others to continue development of the blaster.
+# This design is not finished, and should not be printed. This is merely being uploaded for others to continue development of the blaster. Contact SuperStressed#2401 on Discord for more info.
 
 ## Images
 
-<img src="GHimages/" width="500">
-<img src="GHimages/" width="500">
+<img src="GHimages/40max%20grenade%20launcher%20v215%201.png" width="500">
+<img src="GHimages/40max%20grenade%20launcher%20v215%202.png" width="500">
+<img src="GHimages/40max%20grenade%20launcher%20v215%203.png" width="500">
+<img src="GHimages/40max%20grenade%20launcher%20v215%204.png" width="500">
+<img src="GHimages/40max%20grenade%20launcher%20v215%205.png" width="500">
+<img src="GHimages/40max%20grenade%20launcher%20v215%206.png" width="500">
+<img src="GHimages/40max%20grenade%20launcher%20v215%207.png" width="500">
+<img src="GHimages/40max%20grenade%20launcher%20v215%208.png" width="500">
+<img src="GHimages/40max%20grenade%20launcher%20v215%209.png" width="500">
+<img src="GHimages/40max%20grenade%20launcher%20v215%2010.png" width="500">
+
+
